@@ -1,8 +1,8 @@
 # Validador de CNPJ com suporte a CNPJ Alfanumérico
 
-Valida CNPJ com suporte a CNPJ alfanumérico. Este projeto é uma implementação simples para validar números de CNPJ, incluindo aqueles que contêm letras.
+Valida CNPJs com suporte a formatos alfanuméricos. Este projeto oferece uma implementação simples e eficiente para validar números de CNPJ, incluindo aqueles que contêm caracteres alfabéticos.
 
-A implementação se baseia na base de código fornecida pelo SERPRO e disponibilizada em <https://www.serpro.gov.br/menu/noticias/videos/cnpj-alfanumerico.zip>.
+A lógica de validação é baseada na documentação oficial fornecida pelo SERPRO, disponível em: [CNPJ Alfanumérico - SERPRO](https://www.serpro.gov.br/menu/noticias/videos/cnpj-alfanumerico.zip).
 
 <!-- [![travis][travis-image]][travis-url] -->
 [![npm][npm-image]][npm-url]
