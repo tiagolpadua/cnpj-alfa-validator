@@ -1,5 +1,9 @@
 {
-    "version": "1.0.0",
+    "name": "cnpj-alfa-validator",
+    "description": "Um validador de CNPJ alfanumérico",
+    "version": "1.0.2",
+    "author": "Tiago Lage Payne de Pádua",
+    "module": "dist/cnpj-alfa-validator.esm.js",
     "license": "MIT",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -33,9 +37,6 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "cnpj-alfa-validator",
-    "author": "Tiago Lage Payne de Pádua",
-    "module": "dist/cnpj-alfa-validator.esm.js",
     "size-limit": [
         {
             "path": "dist/cnpj-alfa-validator.cjs.production.min.js",
